@@ -40,8 +40,6 @@
 #include <cutils/properties.h>
 #include <stdlib.h>
 
-#define EXTRA_ENTRY 6
-
 #include "mm_camera_dbg.h"
 #include "mm_camera_interface.h"
 #include "mm_camera_sock.h"
